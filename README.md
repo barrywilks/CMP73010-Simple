@@ -2,3 +2,5 @@
 Activity 3.1 simple project
 This project is used in Workshop 3
 test1
+
+this is  a test
